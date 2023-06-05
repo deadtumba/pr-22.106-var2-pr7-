@@ -123,7 +123,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_marginTop="15dp"
         android:layout_weight="1"
         app:srcCompat="@drawable/more_zakat_nebo_volna" />
-
+//
     <TextView
         android:id="@+id/textView6"
         android:layout_width="wrap_content"
